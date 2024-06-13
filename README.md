@@ -6,7 +6,7 @@
 Clone the repository: 
 Install dependencies: npm install
 
-2.  Start the Serber
+2.  Start the Server
 node app.js
 
 3.	API references
