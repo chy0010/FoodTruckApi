@@ -3,8 +3,8 @@
 
 # Getting Started
 1.	Installation process
-Clone the repository: https://github.com/chy0010/FoodTruckApi.git
-Install dependencies: npm install
+- Clone the repository: https://github.com/chy0010/FoodTruckApi.git
+- Install dependencies: npm install
 
 2.  Start the Server
 node app.js
